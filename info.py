@@ -15,7 +15,7 @@ Classic_long = [
     "https://www.youtube.com/watch?v=Z_v0W3PAunQ&ab_channel=TheDreamers"
 ]
 
-Emojis = ["🥰","🎧","📚","🕐","☕️","🤧","😮‍💨","📖","🤓","👓","🎼","🎶","🎼","🎹","🎵","🎷,""🎻","🎺","🏛"]
+Emojis = ["🥰","🎧","📚","🕐","☕️","🤧","😮‍💨","📖","🤓","👓","🎼","🎶","🎼","🎹","🎵","🎷","🎻","🎺","🏛"]
 
 Classic_short = [
     "https://www.youtube.com/watch?v=ZsNPRr8U33Q&list=PLgg6LswqK80ZOtKndAbJmk6Azi3gzJRjR",
