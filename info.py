@@ -3,11 +3,6 @@
 #CODE Mozart = X3XX
 
 Classic_long = [
-    "https://www.youtube.com/watch?v=sPifhye2gQo&ab_channel=EssentialClassic",
-    "https://www.youtube.com/watch?v=4lZ4BmgVY8U&ab_channel=adelsasumi",
-    "https://www.youtube.com/watch?v=W-fFHeTX70Q&ab_channel=HALIDONMUSIC",
-    "https://www.youtube.com/watch?v=Q0OhmGD-4-E&ab_channel=HALIDONMUSIC",
-    "https://www.youtube.com/watch?v=Rb0UmrCXxVA&ab_channel=HALIDONMUSIC",
     "https://www.youtube.com/watch?v=WG19zju_WBE&t=11s&ab_channel=peresed",
     "https://www.youtube.com/watch?v=bvlNy_GxVe0&ab_channel=NewVibes-RelaxingMusic",
     "https://www.youtube.com/watch?v=Ty81ibUn75E&ab_channel=HALIDONMUSIC",

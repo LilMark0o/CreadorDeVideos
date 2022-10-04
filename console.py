@@ -12,6 +12,7 @@ while Siga:
     print("oprima 4 para hacer las opciones 1, 2 y 3 a la vez")
     print("oprima 5 para crear el video")
     print("oprima 6 para borrar los archivos")
+    print("oprima cualquier otro número para salir del programa")
 
     r1 = int(input("¿Qué desea hacer?\n"))
     if r1==1:
