@@ -1,6 +1,7 @@
 import os
 
 ABS_PATH = os.path.abspath(__file__)
+print(ABS_PATH)
 BASE_DIR = os.path.dirname(ABS_PATH)
 DATA_DIR = os.path.join(BASE_DIR, "data")
 SAMPLE_DIR = os.path.join(DATA_DIR, "samples")
